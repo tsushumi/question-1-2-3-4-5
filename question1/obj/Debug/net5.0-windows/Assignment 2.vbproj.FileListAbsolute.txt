@@ -1,0 +1,20 @@
+C:\Users\Brian\source\repos\Assignment 2\bin\Debug\net5.0-windows\Assignment 2.exe
+C:\Users\Brian\source\repos\Assignment 2\bin\Debug\net5.0-windows\Assignment 2.deps.json
+C:\Users\Brian\source\repos\Assignment 2\bin\Debug\net5.0-windows\Assignment 2.runtimeconfig.json
+C:\Users\Brian\source\repos\Assignment 2\bin\Debug\net5.0-windows\Assignment 2.runtimeconfig.dev.json
+C:\Users\Brian\source\repos\Assignment 2\bin\Debug\net5.0-windows\Assignment 2.dll
+C:\Users\Brian\source\repos\Assignment 2\bin\Debug\net5.0-windows\ref\Assignment 2.dll
+C:\Users\Brian\source\repos\Assignment 2\bin\Debug\net5.0-windows\Assignment 2.pdb
+C:\Users\Brian\source\repos\Assignment 2\obj\Debug\net5.0-windows\Assignment 2.vbproj.AssemblyReference.cache
+C:\Users\Brian\source\repos\Assignment 2\obj\Debug\net5.0-windows\Assignment_2.DemoForm.resources
+C:\Users\Brian\source\repos\Assignment 2\obj\Debug\net5.0-windows\Assignment 2.vbproj.GenerateResource.cache
+C:\Users\Brian\source\repos\Assignment 2\obj\Debug\net5.0-windows\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\source\repos\Assignment 2\obj\Debug\net5.0-windows\Assignment 2.AssemblyInfoInputs.cache
+C:\Users\Brian\source\repos\Assignment 2\obj\Debug\net5.0-windows\Assignment 2.AssemblyInfo.vb
+C:\Users\Brian\source\repos\Assignment 2\obj\Debug\net5.0-windows\Assignment 2.vbproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Assignment 2\obj\Debug\net5.0-windows\Assignment 2.dll
+C:\Users\Brian\source\repos\Assignment 2\obj\Debug\net5.0-windows\ref\Assignment 2.dll
+C:\Users\Brian\source\repos\Assignment 2\obj\Debug\net5.0-windows\Assignment 2.pdb
+C:\Users\Brian\source\repos\Assignment 2\obj\Debug\net5.0-windows\Assignment 2.genruntimeconfig.cache
+C:\Users\Brian\source\repos\Assignment 2\obj\Debug\net5.0-windows\Assignment_2.AmountofMoneyinAccountForm.resources
+C:\Users\Brian\source\repos\Assignment 2\obj\Debug\net5.0-windows\Assignment_2.MultiplicationTableForm.resources
